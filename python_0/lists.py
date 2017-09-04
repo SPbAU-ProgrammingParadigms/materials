@@ -38,7 +38,7 @@ a.sort(key=lambda x: x[1]) # same using lambda
 
 ### Tuples
 # Tuple - immutable list
-# empty_tuple = (,)
+# empty_tuple = ()
 # singleton = (1,)
 # a = (1, 2, 3)
 # a[0] = 2 # error
