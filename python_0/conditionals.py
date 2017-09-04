@@ -1,7 +1,7 @@
 ### Conditionals, braces are optional:
 
 gpa = 5.0
-if 4 < gpa < 4.5:
+if 4 < gpa and gpa < 4.5:
     skill = 'good'
 elif gpa >= 4.5:
     skill = 'excellent'
@@ -10,7 +10,7 @@ else:
 
 print(skill)
 
-if 1 == 1 and 2 + 2 == 4:
+if 1 == 1 and 2 + 2 == 4 or 'hello' == "hello":
     print('Math works!')
 
 

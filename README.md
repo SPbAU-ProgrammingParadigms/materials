@@ -3,5 +3,3 @@
 
 ## 1. Practice 1
 * [slides](https://slides.com/ordian/paradigms1)
-
-add this line
