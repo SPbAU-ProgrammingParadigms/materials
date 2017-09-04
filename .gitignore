@@ -1,0 +1,24 @@
+# temp files
+*~
+\#*
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# hide next lessons
+
+# gtags
+GTAGS
+GRTAGS
+GPATH
+
+# rust build folder
+target/
+
+# nasm examples
+*.exe
+*.o
+
+# slides
+slides/
