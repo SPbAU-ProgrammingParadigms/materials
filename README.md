@@ -8,3 +8,8 @@
 * functions
 * data-structures: lists, tuples, dicts, sets
 * list/dict/set comprehensions
+
+## 1. Python. Modules.
+* [slides](https://slides.com/ordian/paradigms2)
+* *args, **kwargs
+* modules: sys.path, standard library
