@@ -11,5 +11,6 @@
 
 ## 1. Python. Modules.
 * [slides](https://slides.com/ordian/paradigms2)
+* idioms
 * *args, **kwargs
 * modules: sys.path, standard library
