@@ -16,7 +16,7 @@
 * modules: sys.path, standard library
 
 ## 2. Python. numpy. OOP intro.
-* [slides](https://slides.com/ordian/paradigm3)
+* [slides](https://slides.com/ordian/paradigms3)
 * generators
 * numpy
 * exceptions
