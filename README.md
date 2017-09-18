@@ -14,3 +14,10 @@
 * idioms
 * *args, **kwargs
 * modules: sys.path, standard library
+
+## 2. Python. numpy. OOP intro.
+* [slides](https://slides.com/ordian/paradigm3)
+* generators
+* numpy
+* exceptions
+* classes, inheritance 

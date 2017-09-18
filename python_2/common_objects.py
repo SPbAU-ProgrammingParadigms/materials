@@ -2,6 +2,7 @@ import os
 import sys
 import string
 import random
+import math
 
 
 #################################################
@@ -178,9 +179,9 @@ if __name__ == '__main__':
     try:
         a.withdraw(100)
     except (ValueError, WithdrawError) as e:
-        pass
+        print('exception raised')
     else:
-        pass
+        print('no exception')
     finally:
         print('Finally')
 
