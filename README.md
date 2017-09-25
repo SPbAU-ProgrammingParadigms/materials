@@ -21,3 +21,12 @@
 * numpy
 * exceptions
 * classes, inheritance 
+
+## 3. Python. OOP. Operator overloading.
+* [slides](https://slides.com/ordian/paradigms4)
+* __magic_methods__
+* arithmetic
+* comparison
+* callable
+* context management
+
