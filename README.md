@@ -30,3 +30,9 @@
 * callable
 * context management
 
+## 4. Python. Design patterns.
+* [slides](https://slides.com/ordian/paradigms5)
+* McDonalds (decorators)
+* Sun       (singleton, builder)
+* Google    (iterator)
+* Blizzard  (visitor)
