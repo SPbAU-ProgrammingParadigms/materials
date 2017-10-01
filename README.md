@@ -24,7 +24,7 @@
 
 ## 3. Python. OOP. Operator overloading.
 * [slides](https://slides.com/ordian/paradigms4)
-* __magic_methods__
+* \_\_magic_methods\_\_
 * arithmetic
 * comparison
 * callable
