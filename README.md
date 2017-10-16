@@ -36,3 +36,14 @@
 * Sun       (singleton, builder)
 * Google    (iterator)
 * Blizzard  (visitor)
+
+## 5. Number representations.
+* [slides](https://slides.com/ordian/paradigms6)
+* Numeral system (decimal, hex, binary)
+* Two's complement
+* IEEE 754
+
+## 6. Haskell. Functional Programming intro.
+* [slides](https://slides.com/ordian/paradigms7)
+* built-in types
+* pattern matching
