@@ -38,12 +38,17 @@
 * Blizzard  (visitor)
 
 ## 5. Number representations.
-* [slides](https://slides.com/ordian/paradigms6)
+* [slides](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * Numeral system (decimal, hex, binary)
 * Two's complement
 * IEEE 754
 
 ## 6. Haskell. Functional Programming intro.
-* [slides](https://slides.com/ordian/paradigms7)
+* [slides](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * built-in types
 * pattern matching
+
+## 7. Haskell. Types and Typeclasses.
+* [slides](https://slides.com/ordian/paradigms8)
+* ADT
+* Typeclasses
