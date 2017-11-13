@@ -52,3 +52,9 @@
 * [slides](https://slides.com/ordian/paradigms8)
 * ADT
 * Typeclasses
+
+## 8. pthreads. Parallel Programming.
+* [slides](https://slides.com/ordian/paradigms9)
+* pthread\_*
+* race conditions, deadlocks
+* mutexes, cond variables
