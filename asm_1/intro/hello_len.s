@@ -7,7 +7,7 @@ _start:
 
 nextchar:
   cmp     BYTE [rax], 0   ; compare the byte pointed to by RAX at this address
-                              ; against zero (Zero is an end of string delimiter)
+                          ; against zero (Zero is an end of string delimiter)
   je      finished        ; jump (if the zero flagged has been set) to the point in the code labeled 'finished'
   inc     rax             ; increment the address in RAX by one byte (if the zero flagged has NOT been set)
   jmp     nextchar        ; jump to the point in the code labeled 'nextchar'
