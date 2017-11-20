@@ -58,3 +58,10 @@
 * pthread\_*
 * race conditions, deadlocks
 * mutexes, cond variables
+
+## 9. nasm. Assembler 101.
+* [slides](https://slides.com/ordian/paradigms10)
+* ISA
+* calling convention
+* registers, basic instructions
+* c++ to asm
