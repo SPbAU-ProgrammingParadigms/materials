@@ -72,3 +72,14 @@
 * basics: select, aggregate, where
 * group by
 * joins
+
+## 11. git. Version Control System.
+* [slides](https://slides.com/ordian/paradigms12)
+* git internals
+* branches
+* merge
+* undo
+* rewriting history
+* debugging
+* magit
+* github workflow
