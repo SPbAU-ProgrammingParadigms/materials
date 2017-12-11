@@ -83,3 +83,9 @@
 * debugging
 * magit
 * github workflow
+
+## 12. rust. Ownership and Borrowing.
+* [slides](https://slides.com/ordian/paradigms13)
+* ownership
+* borrowing
+* traits
